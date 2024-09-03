@@ -42,6 +42,7 @@ vector<string> findAnagrams(const string &word, const string &filename) {
 
 int main() {
   string word, filename;
+  int count;
 
   // Get the word from the user
   cout << "Enter a word: ";
@@ -60,8 +61,10 @@ int main() {
          << endl;
   } else {
     cout << "Anagrams found for the word '" << word << "':" << endl;
+    count = 1;
     for (const string &anagram : anagrams) {
-      cout << anagram << endl;
+      cout << count << ". " << anagram << endl;
+      count++;
     }
   }
 
