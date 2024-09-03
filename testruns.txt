@@ -1,0 +1,36 @@
+Enter a word: weird
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'weird':
+1. weird
+2. wider
+3. wierd
+4. wired
+5. wride
+6. wried
+
+Enter a word: ship
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'ship':
+1. hips
+2. phis
+3. pish
+4. ship
+
+Enter a word: powder
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'powder':
+1. powder
+2. prowed
+
+Enter a word: towel
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'towel':
+1. owlet
+2. towel
+
+Enter a word: towns
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'towns':
+1. nowts
+2. towns
+3. wonts
